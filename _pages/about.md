@@ -11,8 +11,9 @@ redirect_from:
 ## CVs
 
 <details><summary>Biological Sciences</summary>
-- [Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)
-- [John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)
+[Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)
+
+[John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)
 
 </details>
 <details><summary>Classics and Religious Studies</summary>
