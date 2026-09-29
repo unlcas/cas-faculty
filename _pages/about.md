@@ -12,14 +12,16 @@ redirect_from:
 
 **Biological Sciences**
 
-<ul><li>[Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)</li>
-
-<li>[John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)</li></ul>
+<ul>
+  <li>Clayton Cressler</li>
+<li>John DeLong</li>
+</ul>
 
 <details><summary>Classics and Religious Studies</summary>
   
-<ul><li>[Anne Duncan](https://classics.unl.edu/sites/unl.edu.cas.classics/files/media/file/duncan_cv.pdf)</li>
-  <li>[Thomas Fraatz](https://classics.unl.edu/fraatz-cv/)</li></ul>
+<ul><li>Anne Duncan</li>
+  <li>Thomas Fraatz</li></ul>
+  
 </details>
 
 ## Webpages
