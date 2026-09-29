@@ -16,6 +16,7 @@ redirect_from:
 [John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)
 
 <details><summary>Classics and Religious Studies</summary>
+  
 <ul><li>[Anne Duncan](https://classics.unl.edu/sites/unl.edu.cas.classics/files/media/file/duncan_cv.pdf)</li>
   <li>[Thomas Fraatz](https://classics.unl.edu/fraatz-cv/)</li></ul>
 </details>
