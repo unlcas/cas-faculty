@@ -11,7 +11,7 @@ redirect_from:
 ## CVs
 
 <table>
-  <tr><td>Clayton Cressler</td><td>Biological sciences</td></tr>
+  <tr><td>[Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)</td><td>Biological sciences</td></tr>
   <tr><td>John DeLong</td><td>Biological sciences</td></tr>
   <tr><td>Anne Duncan</td><td>Classics and religious studies</td></tr>
   <tr><td>Thomas Fraatz</td><td>Classics and religious studies</td></tr>
