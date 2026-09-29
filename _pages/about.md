@@ -10,6 +10,13 @@ redirect_from:
 
 ## CVs
 
+<table>
+  <tr><td>Clayton Cressler</td><td>Biological sciences</td></tr>
+  <tr><td>John DeLong</td><td>Biological sciences</td></tr>
+  <tr><td>Anne Duncan</td><td>Classics and religious studies</td></tr>
+  <tr><td>Thomas Fraatz</td><td>Classics and religious studies</td></tr>
+</table>
+
 **Biological Sciences**
 
 <ul>
