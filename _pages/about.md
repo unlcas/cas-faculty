@@ -10,10 +10,11 @@ redirect_from:
 
 ## CVs
 
-**Biological Sciences**
-[Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)
+**Biological Sciences**\
 
-[John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)
+<ul><li>[Clayton Cressler](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6fbddfa4-42e2-3840-ac7e-89ddbbb894a6&viewer%21megaVerb=group-read)</li>
+
+<li>[John DeLong](https://drive.google.com/file/d/1VAi3C88OUojHE6dviHyRceSRHTxbnEY3/view?usp=drive_link)</li></ul>
 
 <details><summary>Classics and Religious Studies</summary>
   
